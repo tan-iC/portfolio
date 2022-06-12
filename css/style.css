@@ -12,9 +12,9 @@ a {
 img {
   max-width: 100%;
 }
-li {
+/* li {
   list-style: none;
-}
+} */
 
 .wrapper {
   max-width: 960px;
@@ -85,7 +85,9 @@ About
   list-style-type:circle;
 }
 #about li:first-child {
-  margin-bottom: 30px;
+  list-style: none;
+  /* margin-bottom: 30px; */
+  font-weight: bold;
 }
 #about p {
   text-align:justify;
@@ -101,6 +103,7 @@ Works
   margin-bottom: 50px;
 }
 #works li {
+  list-style: none;
   width: 31%;
   margin-bottom: 23px;
 }
@@ -198,6 +201,7 @@ SP
     flex-direction: column;
   }
   #header li {
+    list-style: none;
     font-size: 0.8rem;
     margin-left: 20px;
   }
@@ -212,6 +216,7 @@ SP
     flex-direction: column;
   }
   #works li {
+    list-style: none;
     width: 100%;
   }
 
