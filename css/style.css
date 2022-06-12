@@ -84,6 +84,12 @@ About
   margin-bottom: 30px;
   list-style-type:circle;
 }
+
+#about li {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
 #about li:first-child {
   list-style: none;
   /* margin-bottom: 30px; */
