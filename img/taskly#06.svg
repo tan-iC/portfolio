@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_4" data-name="レイヤー 4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #099;
+      }
+
+      .cls-2 {
+        fill: #c36;
+      }
+
+      .cls-3 {
+        fill: #369;
+      }
+
+      .cls-4 {
+        fill: #003;
+      }
+
+      .cls-5 {
+        fill: #969;
+      }
+
+      .cls-6 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <rect class="cls-6" x="460" y="40" width="1000" height="1000"/>
+  <circle class="cls-6" cx="960" cy="540" r="500"/>
+  <rect class="cls-4" x="510" y="90" width="900" height="200"/>
+  <rect class="cls-4" x="425" y="530" width="720" height="200" transform="translate(155 1415) rotate(-90)"/>
+  <rect class="cls-2" x="885" y="315" width="500" height="150" rx="30" ry="30"/>
+  <rect class="cls-5" x="885" y="490" width="500" height="150" rx="30" ry="30"/>
+  <rect class="cls-3" x="885" y="665" width="500" height="150" rx="30" ry="30"/>
+  <rect class="cls-1" x="886" y="840" width="500" height="150" rx="30" ry="30"/>
+</svg>
